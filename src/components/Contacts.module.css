@@ -24,7 +24,7 @@
     border-radius: 10px;
     color: #304ffe;
     font-size: 1rem;
-    outline: none;
+    outline-color: #304ffe;
 }
 
 .form button {
